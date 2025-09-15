@@ -3,3 +3,5 @@ uvicorn
 numpy
 pillow
 scikit-learn
+python-multipart
+
